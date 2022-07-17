@@ -6,7 +6,10 @@
   "description": "![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)",
   "version": "1.0.0",
   "main": "tailwind.config.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-tailwindcss": "^0.1.12"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
